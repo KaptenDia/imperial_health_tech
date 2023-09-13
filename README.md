@@ -1,16 +1,19 @@
 # pramudia_healthtech_interview
 
-A new Flutter project.
+This project is to fulfill the interview requirements.
 
-## Getting Started
+To change the screen im using flutter bloc.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### HomeScreen
+<img src ="https://user-images.githubusercontent.com/84517697/210124746-bd4806bc-661a-4d4f-8551-df223d37991a.PNG">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### ScheduleScreen
+<img src ="https://user-images.githubusercontent.com/84517697/210124748-3998c3e4-c3b6-4bf3-97c4-b6eb0062ef63.PNG">
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### ReportScreen
+<img src ="https://user-images.githubusercontent.com/84517697/210124749-5b326e21-b9e5-46c0-b4b8-1eb38b9db673.PNG">
+
+### NotificationScreen
+<img src ="https://user-images.githubusercontent.com/84517697/210124751-223575af-31d9-435d-863a-c06178b734e3.PNG">
